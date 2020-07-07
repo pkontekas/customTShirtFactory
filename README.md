@@ -3,4 +3,5 @@ A small java project, that can be run as a console application. Java standard ed
 
 Use of Enumerators and Strategy Pattern made this a fun and interesting experience. :)
 
+Check PDF for requirements.
 This was an assignment for the Coding Bootcamp 10, Peoplecert.
